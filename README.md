@@ -5,7 +5,6 @@ Este é um repositório para Testes Técnicos em Mobile da Be. Ele é destinado 
 Se você chegou até aqui por meio de um formulário de Teste Técnico, siga em frente. Caso contrário, acompanhe a BeTalent no [Linkedin](https://www.linkedin.com/company/betalenttech), [Instagram](https://www.instagram.com/betalent.tech/), [Facebook](https://web.facebook.com/bemobile.tech) ou na nossa newsletter [BeTalent Academy](https://beacademy.substack.com/). Divulgamos novos processos seletivos por lá.
 
 ## Desafio
-
 O Teste Técnico Mobile BeTalent consiste em construir a visualização de uma tabela com dados que virão de uma API simulada.
 
 ### Mockup
